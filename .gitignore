@@ -1,0 +1,10 @@
+data/
+*.csv
+*.h5
+*.pkl
+*.joblib
+__pycache__/
+.ipynb_checkpoints/
+results/saved_models/
+ids_env/
+.env
