@@ -6,5 +6,5 @@ Novel Hybrid IDS using CNN-LSTM + Autoencoder + SHAP
 - [*] 3 -Preprocessing (in progress)
 - [*] 4 -cnn-lstm training  completed
 - [*] 5-built autoencoder model
-- [*]  6-FP Analysis done
+- [*] 6-FP Analysis done
  
